@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jaky-gh.github.io/al-folio/sitemap.xml
+Sitemap: https://jaky-gh.github.io/sitemap.xml
