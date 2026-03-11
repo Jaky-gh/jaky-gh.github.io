@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Software Engineer | M.S. in Information Systems (Stevens Institute of Technology) | M.S. in Computer Science (EPITA)
 
@@ -8,10 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>Stevens Institute of Technology</p>
-    <p>Hoboken, New Jersey, USA</p>
-    <p>Open to Software Engineer opportunities</p>
+  more_info: 
 
 selected_papers: false
 social: true
