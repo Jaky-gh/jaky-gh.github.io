@@ -29,9 +29,9 @@ cv:
         score: ""
         courses: "Project Management, IT Strategy, Financial Decision Making, Marketing Analytics, Supply Chain Analytics, Data Analytics, Machine Learning, Big Data Technologies"
         highlights:
-          - Master's in IS: Integrated business strategy with technology management.
-          - Strategic Lead: Expert in project management and data-driven decision making.
-          - Solution-Focused: Aligning technical execution with stakeholder objectives.
+          - Master's degree in Information Systems with focus on business and technology management.
+          - Strong foundation in project management, business strategy, and data-driven decision making.
+          - Skilled in aligning technical solutions with business objectives and stakeholder needs.
 
       - institution: EPITA (École pour l'Informatique et les Techniques Avancées)
         location: France
@@ -41,12 +41,9 @@ cv:
         start_date: 2015
         end_date: 2020
         highlights:
-          - Completed an engineering degree with specialization in Multimedia and Information Technology (MTI), focusing on web technologies, user experience, and digital applications.
-          - Developed full-stack applications integrating web, mobile, and multimedia systems, with emphasis on user interfaces and modern software architectures.
-          - Applied concepts in digital transformation, including UX design, cloud-based applications, and scalable systems used in real-world business environments.
-          - Participated in project-based learning with industry-oriented projects such as web platforms, simulation tools, and interactive applications.
-          - Built strong foundations in algorithms, software engineering, and system design through intensive coding projects and hands-on development.
-          - Gained experience in teamwork, project management, and delivering end-to-end software solutions in an engineering context.
+          - MTI specialization in digital technologies.
+          - Full-stack and multimedia application development.
+          - Foundation in software engineering and system design.
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
