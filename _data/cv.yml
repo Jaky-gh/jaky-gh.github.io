@@ -7,12 +7,8 @@ cv:
   summary: Software Engineer with experience in Java, Spring Boot, and microservices architecture, specializing in building scalable backend systems and RESTful APIs. Strong background in distributed systems, cloud technologies, and full-stack development with exposure to Angular and React.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+      username: jaky-gh
 
   address:
     street: 2712 Broadway St
@@ -29,24 +25,28 @@ cv:
         area: Information Systems
         studyType: Master's Degree
         start_date: 2024
-        end_date: 2026
+        end_date: 2025
         score: ""
         courses: "Project Management, IT Strategy, Financial Decision Making, Marketing Analytics, Supply Chain Analytics, Data Analytics, Machine Learning, Big Data Technologies"
         highlights:
-          - Pursuing a dual degree combining Information Systems with business and technology management.
+          - Completed a Master's degree combining Information Systems with business and technology management.
           - Gained strong foundation in project management, business strategy, and data-driven decision making.
           - Developed skills in aligning technical solutions with business objectives and stakeholder needs.
 
       - institution: EPITA (École pour l'Informatique et les Techniques Avancées)
         location: France
-        url: https://www.epita.fr
+        url: https://www.epita.fr/
         area: Computer Science
-        studyType: Master's Degree (Diplôme d'ingénieur)
+        studyType: Master's Degree (Engineering)
         start_date: 2015
         end_date: 2020
         highlights:
-          - Specialized in software engineering and backend development.
-          - Strong foundation in algorithms, system design, and object-oriented programming.
+          - Completed an engineering degree with specialization in Multimedia and Information Technology (MTI), focusing on web technologies, user experience, and digital applications.
+          - Developed full-stack applications integrating web, mobile, and multimedia systems, with emphasis on user interfaces and modern software architectures.
+          - Applied concepts in digital transformation, including UX design, cloud-based applications, and scalable systems used in real-world business environments.
+          - Participated in project-based learning with industry-oriented projects such as web platforms, simulation tools, and interactive applications.
+          - Built strong foundations in algorithms, software engineering, and system design through intensive coding projects and hands-on development.
+          - Gained experience in teamwork, project management, and delivering end-to-end software solutions in an engineering context.
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
