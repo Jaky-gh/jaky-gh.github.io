@@ -90,11 +90,17 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: French
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
+
+      - name: Chinese
+        summary: "Currently learning"
+
+      - name: Korean
+        summary: "Currently learning"
 
     Interests:
       - name: Physics
