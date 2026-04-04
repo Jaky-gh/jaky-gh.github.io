@@ -1,7 +1,7 @@
 cv:
   name: Anthony Truong
   label: Software Engineer
-  email: athonyytruong@gmail.com
+  email: anthonyytruong@gmail.com
   location: Jersey City, NJ, USA
   image: ""
   summary: Software Engineer with experience in Java, Spring Boot, and microservices architecture, specializing in building scalable backend systems and RESTful APIs. Strong background in distributed systems, cloud technologies, and full-stack development with exposure to Angular and React.
@@ -11,10 +11,9 @@ cv:
       username: jaky-gh
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    city: Jersey City
+    region: New Jersey
+    postalCode: NJ 07310
     countryCode: US
 
   sections:
@@ -26,7 +25,7 @@ cv:
         studyType: Master's Degree
         start_date: 2024
         end_date: 2025
-        score: ""
+        score: "GPA: 3.83"
         courses: "Project Management, IT Strategy, Financial Decision Making, Marketing Analytics, Supply Chain Analytics, Data Analytics, Machine Learning, Big Data Technologies"
         highlights:
           - Master's degree in Information Systems with focus on business and technology management.
@@ -55,33 +54,6 @@ cv:
         highlights:
           - Relativity
           - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
 
     Skills:
       - name: Physics
